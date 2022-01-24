@@ -440,7 +440,7 @@ z-index: 200;
 
 .logo-img:before {
 content: "";
-background: url(../img/logoOne.png) no-repeat;
+background: url(../img/logoTwo.png) no-repeat;
 display: block;
 width: 57px;
 height: 34px;
